@@ -10,7 +10,7 @@ const Showcase = () => {
 
   return (
     <div className= 'showcase-wrapper'>
-      <h1>{favPokemon}'s Showcase Component</h1>
+      <h1>{favPokemon}'s Showcase Component!</h1>
       <img 
         style={{ height: 500, width: 500, padding: 20, borderRadius: '50%' }}
         src= {bulbasaur}
